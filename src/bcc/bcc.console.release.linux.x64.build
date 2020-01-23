@@ -231,8 +231,8 @@ ar -r "$BMX_ROOT/mod/brl.mod/blitz.mod/blitz.release.linux.x64.a" "$BMX_ROOT/mod
 ar -r "$BMX_ROOT/mod/brl.mod/blitz.mod/blitz.release.linux.x64.a" "$BMX_ROOT/mod/brl.mod/blitz.mod/bdwgc/.bmx/bbb_backgraph.c.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/blitz.mod/bdwgc/.bmx/bbb_win32_threads.c.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/blitz.mod/bdwgc/.bmx/bbb_thread_local_alloc.c.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/blitz.mod/tree/.bmx/bbt_tree.c.release.linux.x64.o"
 ar -r "$BMX_ROOT/mod/brl.mod/blitz.mod/blitz.release.linux.x64.a" "$BMX_ROOT/mod/brl.mod/blitz.mod/bdwgc/.bmx/bbb_backgraph.c.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/blitz.mod/bdwgc/.bmx/bbb_win32_threads.c.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/blitz.mod/bdwgc/.bmx/bbb_thread_local_alloc.c.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/blitz.mod/tree/.bmx/bbt_tree.c.release.linux.x64.o"
 ar -r "$BMX_ROOT/mod/brl.mod/appstub.mod/appstub.release.linux.x64.a" "$BMX_ROOT/mod/brl.mod/appstub.mod/.bmx/appstub.bmx.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/appstub.mod/.bmx/mba_appstub.linux.c.release.linux.x64.o"
-echo [ 91%] Archiving:linkedlist.release.linux.x64.a
 ar -r "$BMX_ROOT/mod/brl.mod/appstub.mod/appstub.release.linux.x64.a" "$BMX_ROOT/mod/brl.mod/appstub.mod/.bmx/appstub.bmx.release.linux.x64.o" "$BMX_ROOT/mod/brl.mod/appstub.mod/.bmx/mba_appstub.linux.c.release.linux.x64.o"
+echo [ 91%] Archiving:linkedlist.release.linux.x64.a
 echo [ 91%] Archiving:math.release.linux.x64.a
 ar -r "$BMX_ROOT/mod/brl.mod/linkedlist.mod/linkedlist.release.linux.x64.a" "$BMX_ROOT/mod/brl.mod/linkedlist.mod/.bmx/linkedlist.bmx.release.linux.x64.o"
 ar -r "$BMX_ROOT/mod/brl.mod/linkedlist.mod/linkedlist.release.linux.x64.a" "$BMX_ROOT/mod/brl.mod/linkedlist.mod/.bmx/linkedlist.bmx.release.linux.x64.o"
